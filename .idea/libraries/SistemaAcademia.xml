@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SistemaAcademia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Aula04/src/SistemaAcademia.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
